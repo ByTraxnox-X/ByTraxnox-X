@@ -3,7 +3,7 @@
 </h1>
 
 <hr />
-<h2 align="center" style="font-family: Rubik 80s Fade">GITHUB STATS</h2>
+<h2 align="center" style="font-family: Rubik 80s Fade">GITHUB ESTADISTICAS</h2>
 
 <br />
 <div width="100%" style="margin: 20px" align="center">
