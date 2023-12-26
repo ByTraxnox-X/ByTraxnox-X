@@ -28,7 +28,7 @@
 <br />
 <div width="100%" align="center">
 
-  <a align="left" href="https://github.com/ByTraxnox-X/TX" title="TX"
+  <a align="left" href="https://github.com/ByTraxnox-X/Kasuma-Bot-MD" title="Kasuma-Bot-MD"
     ><img
       height="115"
       src="https://github-readme-stats.vercel.app/api/pin/?username=ByTraxnox-X&repo=TX&theme=dracula&border_color=61dafb&border_radius=10"
