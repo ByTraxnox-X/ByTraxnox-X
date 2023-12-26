@@ -37,6 +37,3 @@
 
 <br />
 
-<h4 align="center">
-  <a href="https://github.com/ByTraxnox-X?tab=repositories" title="Show Repositories">BUSCAR REPOSITORIOS</a>
-</h4>
